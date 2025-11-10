@@ -76,7 +76,7 @@
             "value": "Static"
         },
         "publicIpAddressSku": {
-            "value": "Basic"
+            "value": "Standard"
         },
         "virtualMachineName": {
             "value": "devsecops-cloud"
@@ -120,7 +120,7 @@
             ]
         },
         "virtualMachineSize": {
-            "value": "Standard_D4s_v3"
+            "value": "DC4ads_v5"
         },
         "adminUsername": {
             "value": "devsecops"
